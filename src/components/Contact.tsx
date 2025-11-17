@@ -76,7 +76,7 @@ const Contact = () => {
             <div className="info-card">
               <div className="info-icon">✉️</div>
               <h3>Email</h3>
-              <p>contact@atharvsecuretech.com</p>
+              <p>atharvsecuretech@gmail.com</p>
               <p>Response within 24 hours</p>
             </div>
           </div>
