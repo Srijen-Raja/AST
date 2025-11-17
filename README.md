@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AST
 AST Website
 =======
