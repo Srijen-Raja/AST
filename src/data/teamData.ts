@@ -44,7 +44,7 @@ export const teamMembers: TeamMember[] = [
     name: 'Srijen Raja',
     role: 'Web Developer',
     specialization: 'Front-End and App Development',
-    experience: '7 years',
+    experience: '8 years',
     quote: 'Finding zero-days before the attackers do.',
     initials: 'SR',
     color: 'linear-gradient(135deg, #00d9ff, #7c3aed)'
@@ -64,7 +64,7 @@ export const teamMembers: TeamMember[] = [
     name: 'Rushil Mohan',
     role: 'Web Developer',
     specialization: 'Cloud Security and Front-End Development',
-    experience: '9 years',
+    experience: '8 years',
     quote: 'Building secure systems that scale.',
     initials: 'RM',
     color: 'linear-gradient(135deg, #7c3aed, #0066ff)'
@@ -74,7 +74,7 @@ export const teamMembers: TeamMember[] = [
     name: 'Varun V',
     role: 'Cybersecurity Intern',
     specialization: 'MSc Economics',
-    experience: '6 years',
+    experience: '7 years',
     quote: 'Security in every step of development.',
     initials: 'VV',
     color: 'linear-gradient(135deg, #00d9ff, #7c3aed)'
@@ -84,9 +84,9 @@ export const teamMembers: TeamMember[] = [
     name: 'Tushar Bhide',
     role: 'IoT Security Intern',
     specialization: 'MSc. Economics and B.E. Computer Science',
-    experience: '7 years',
+    experience: '6 years',
     quote: 'Securing the connected world, one device at a time.',
-    initials: 'AK',
+    initials: 'TB',
     color: 'linear-gradient(135deg, #0066ff, #7c3aed)'
   },
   {
@@ -96,7 +96,7 @@ export const teamMembers: TeamMember[] = [
     specialization: 'MSc. Physics and B.E. Mathematics and Computing',
     experience: '6 years',
     quote: 'Creating security solutions users actually want to use.',
-    initials: 'DN',
+    initials: 'IS',
     color: 'linear-gradient(135deg, #7c3aed, #00d9ff)'
   },
   {
@@ -104,9 +104,9 @@ export const teamMembers: TeamMember[] = [
     name: 'Havish Grandhi',
     role: 'Security Analysis Intern',
     specialization: 'MSc. Mathematics',
-    experience: '5 years',
+    experience: '6 years',
     quote: 'Data tells the story of every attack.',
-    initials: 'RS',
+    initials: 'HG',
     color: 'linear-gradient(135deg, #00d9ff, #0066ff)'
    },
 //   {
