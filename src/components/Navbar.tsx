@@ -25,6 +25,7 @@ const Navbar = ({ scrollY }: NavbarProps) => {
     <nav className={`navbar ${isScrolled ? "scrolled" : ""}`}>
       <div className="navbar-container">
         <div className="navbar-logo">
+          <img src="logo.png" height={60} alt="Atharv SecureTech logo" />
           <span className="logo-text">Atharv SecureTech</span>
         </div>
 
