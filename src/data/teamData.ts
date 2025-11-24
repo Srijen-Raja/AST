@@ -52,7 +52,7 @@ export const teamMembers: TeamMember[] = [
   {
     id: 3,
     name: 'Srijen Raja',
-    role: 'Web Developer',
+    role: 'Intern',
     specialization: 'Front-End and App Development',
     experience: '2+ years',
     quote: 'Finding zero-days before the attackers do.',
@@ -62,7 +62,7 @@ export const teamMembers: TeamMember[] = [
   {
     id: 4,
     name: 'Anand Venkataraman',
-    role: 'Web Developer',
+    role: 'Intern',
     specialization: 'Front-End Development',
     experience: '2+ years',
     quote: 'Defense is best understood by simulating attacks.',
@@ -72,7 +72,7 @@ export const teamMembers: TeamMember[] = [
   {
     id: 5,
     name: 'Rushil Mohan',
-    role: 'Web Developer',
+    role: 'Intern',
     specialization: 'Cloud Security and Front-End Development',
     experience: '2+ years',
     quote: 'Building secure systems that scale.',
