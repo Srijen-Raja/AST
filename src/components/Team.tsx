@@ -58,8 +58,6 @@ const Team = () => {
                 <h4>{member.name}</h4>
                 <p className="role">{member.role}</p>
                 <p className="specialization">{member.specialization}</p>
-                <p className="experience">{member.experience}</p>
-                <blockquote className="quote">"{member.quote}"</blockquote>
               </div>
             ))}
           </div>
