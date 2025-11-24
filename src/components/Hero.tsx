@@ -40,21 +40,6 @@ const Hero = () => {
           </button>
           <button className="btn btn-secondary">Learn More</button>
         </div>
-
-        <div className="hero-stats">
-          <div className="stat">
-            <h3>500+</h3>
-            <p>Security Audits</p>
-          </div>
-          <div className="stat">
-            <h3>99.9%</h3>
-            <p>Uptime</p>
-          </div>
-          <div className="stat">
-            <h3>24/7</h3>
-            <p>Support</p>
-          </div>
-        </div>
       </div>
 
     </section>
